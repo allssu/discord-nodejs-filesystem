@@ -1,0 +1,22 @@
+{
+  "name": "discord-nodejs-filesystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allssu/discord-nodejs-filesystem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allssu/discord-nodejs-filesystem/issues"
+  },
+  "homepage": "https://github.com/allssu/discord-nodejs-filesystem#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
